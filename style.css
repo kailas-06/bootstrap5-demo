@@ -1,3 +1,17 @@
+.navbar{
+    box-shadow: -3.106px -50px 95px 8px rgb(0 0 0);
+    width: 100%;
+    z-index: 2;
+}
+#navbarSupportedContent .navbar-nav li a.active {
+	color: #333;
+}
+.banner{
+    margin-top:67px;
+}
+.banner .carousel-item img{
+    height:550px;
+}
 .navbar .navbar-brand img{
     height:42px;
     width:42px;
@@ -14,4 +28,16 @@
 }
 .bg-infor{
     background-color: rgb(137, 246, 209);
+}
+.about-company{
+    margin-top: 67px;
+}
+.specifications .accordion-item .accordion-button {
+    box-shadow: 0 0 0 0.25rem rgba(13, 110, 253 ,0);
+}
+.specifications .accordion-item .accordion-button:not(.collapsed){
+    border-bottom: 1px solid #0c63e4;
+}
+#boxmodal.modal{
+    top: 36px;
 }
