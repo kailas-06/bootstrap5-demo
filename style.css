@@ -8,6 +8,10 @@
 }
 .accordion-body ul li{
     color:#333;
-};
-.bg-grey{background-color: #f2f2f2;}
-.bg-infor{background-color: rgb(137, 246, 209);}
+}
+.bg-grey{
+    background-color: #f2f2f2;
+}
+.bg-infor{
+    background-color: rgb(137, 246, 209);
+}
