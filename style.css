@@ -6,6 +6,10 @@
 #navbarSupportedContent .navbar-nav li a.active {
 	color: #333;
 }
+.navbar-nav .nav-link {
+    font-size: 16px;
+    font-weight: 600;
+  }
 .banner{
     margin-top:67px;
 }
